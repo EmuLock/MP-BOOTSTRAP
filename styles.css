@@ -1,0 +1,14 @@
+#profile {
+    margin-top: 150px;
+}
+
+#projectsection {
+    min height: 100vh;
+    background-color:rgba(117, 22, 117, 0.637);
+    padding-top:5%; 
+    padding-bottom: 50px;
+}
+
+#mainsection {
+    height: 100vh;
+}
